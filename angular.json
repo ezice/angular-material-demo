@@ -84,13 +84,8 @@
       }
     }
   },
-<<<<<<< HEAD
   "defaultProject": "demo",
   "cli": {
     "analytics": false
   }
 }
-=======
-  "defaultProject": "demo"
-}
->>>>>>> 413f34986a4ebd4365d937a0f73fabb87a6404c3
